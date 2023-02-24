@@ -11,3 +11,8 @@ let calc = {
 }
 //calc.sum(100, 200)
 //calc.min(1000, 800)
+let multiplication = function(a, b) {
+    let multi = a * b;
+    return multi;
+}
+//multiplication(5, 10)
