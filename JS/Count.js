@@ -2,10 +2,8 @@ let count = 1300
 
 if (count >= 1000) {
     console.log("Credit card payment");
-};
-else if (count < 1000) {
+} else if (count < 1000) {
     console.log("Cash payment");
-};
-else {
+} else {
     console.log("Payment by check");
 };
